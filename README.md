@@ -81,14 +81,6 @@ I enjoy working with data end-to-end — from **data collection and cleaning** t
 
 ---
 
-## 📌 Featured Project Ideas *(Coming Soon)*  
-- 📊 **Sales & Revenue Dashboard** (SQL + Power BI)  
-- 🛒 **Customer Purchase Behavior Analysis**  
-- 📉 **Inventory Optimization Using Historical Data**  
-- 🧠 **Predictive Sales Forecasting Model**
-
----
-
 ## 🤝 Let’s Connect  
 
 I’m actively looking for **entry-level data analyst / data science opportunities**, internships, or collaborative projects.
