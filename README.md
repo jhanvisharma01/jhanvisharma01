@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Jhanvi%20Sharma-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jhanvisharma)
 [![GitHub](https://img.shields.io/badge/-jhanvisharma01-%23181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/jhanvisharma01)
 [![Instagram](https://img.shields.io/badge/-@jhanvigraphy-%23E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/jhanvigraphy/)
-[![Discord](https://img.shields.io/badge/-@that_brown_gorl-%235865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/that_brown_gorl)
+[![Discord](https://img.shields.io/badge/-@that_brown_gorl#1590-%235865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/that_brown_gorl#1590)
 
 📍 **Peterborough, Ontario**  
 🎓 **BSc (Hons) Computer Science — Data Analytics**  
