@@ -1,4 +1,4 @@
-# 📊 Hi, I’m **Jhanvi Sharma**  
+# 👾 Hi, I’m **Jhanvi Sharma**  
 
 [![LinkedIn](https://img.shields.io/badge/-Jhanvi%20Sharma-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jhanvisharma)
 [![GitHub](https://img.shields.io/badge/-jhanvisharma01-%23181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/jhanvisharma01)
@@ -21,7 +21,7 @@ My background uniquely blends:
 - 💼 **Real business ownership experience**
 - 📈 **Decision-making grounded in data**
 
-Currently, I **own and manage a food business**, where I actively analyze **sales trends, customer behavior, inventory performance, and revenue patterns** to improve operations and profitability.
+Currently, I **work in sales and own a food business**, where I actively analyze **sales trends, customer behavior, inventory performance, and revenue patterns** to improve operations and profitability.
 
 I enjoy working with data end-to-end — from **data collection and cleaning** to **analysis, visualization, and storytelling**.
 
